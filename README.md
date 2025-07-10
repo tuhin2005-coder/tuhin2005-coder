@@ -5,13 +5,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhin2005-coder&label=Profile%20views&color=0e75b6&style=flat" alt="tuhin2005-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhin2005-coder" alt="tuhin2005-coder" /></a> </p>
+<p align="center">
+  <img src="https://www.canva.com/design/DAGsv6580ho/Sptce7S0lVXrdCciTnqRxA/view?utm_content=DAGsv6580ho&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5b6df4bcf" alt="Profile Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Tuhin Pariksha!</h1>
+
+<h3 align="center">Iot, cybersecurity and blockchain technology student || Frontent Development || Backend Development || Exploring iot's world || cyber security Tools</h3>
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: *Programming Languages || Frontend Development || Backend Development*
-- 💬 Ask me about: *web developments and Programming Languages*
+- 🌱 I’m currently learning: **Programming Languages || Frontend Development || Backend Development**
+- 💬 Ask me about: **web developments and Programming Languages**
 - 📫 How to reach me: [tuhinpariksha@gmail.com](mailto:tuhinpariksha@gmail.com)
-- ⚡ Fun fact: *I enjoying every work and moment with a joy*
+- ⚡ Fun fact: **I enjoying every work and moment with a joy**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
@@ -59,5 +66,5 @@
 <p align="center"><img src="https://streak-stats.demolab.com/?user=tuhin2005-coder&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuhin2005-coder&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/tuhin2005-coder" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @tuhin2005-coder" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tuhin2005-coder&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/tuhin2005-coder" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @tuhin2005-coder" /></a>
 </p>
