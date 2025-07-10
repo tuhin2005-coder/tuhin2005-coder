@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhin2005-coder" alt="tuhin2005-coder" /></a> </p>
 <p align="center">
-<h1 align="center">Hi 👋, I'm Tuhin Pariksha!</h1>
-
-<h3 align="center">Iot, cybersecurity and blockchain technology student || Frontent Development || Backend Development || Exploring iot's world || cyber security Tools</h3>
-
 <h3 align="left">More About Me:</h3>
 
 - 🌱 I’m currently learning: **Programming Languages || Frontend Development || Backend Development**
