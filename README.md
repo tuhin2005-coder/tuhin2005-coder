@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhin2005-coder" alt="tuhin2005-coder" /></a> </p>
 <p align="center">
-  <img src="https://www.canva.com/design/DAGsv6580ho/Sptce7S0lVXrdCciTnqRxA/view?utm_content=DAGsv6580ho&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5b6df4bcf" alt="Profile Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Tuhin Pariksha!</h1>
 
 <h3 align="center">Iot, cybersecurity and blockchain technology student || Frontent Development || Backend Development || Exploring iot's world || cyber security Tools</h3>
